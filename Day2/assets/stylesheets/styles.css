@@ -1,0 +1,47 @@
+
+/*First PAge */
+body { 
+background-color: purple;
+ }
+
+ .sub-header {
+background-color: white;
+color: blue;
+/*padding top-bottom then left-right*/
+padding: 10px;
+ }
+
+ #main-header {
+ 	font-family: 'Barlow Condensed', sans-serif; 
+ 	text-align: center;
+ 	color: purple;
+ 	background-color: black;
+ 	/*padding top-bottom then left-right*/
+padding: 10px 5px 5px 5px;
+ }
+
+ p{
+ 	color: black;
+ 	background-color: white;
+
+ }
+
+ a:hover {
+ 	text-decoration: overliine;
+ 	color: orange;
+
+ }
+
+ .square {
+ 	background-color: black;
+ 	height: 100px;
+ 	width: 100px;
+ }
+
+.circle {
+	border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;
+}
